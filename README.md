@@ -27,7 +27,8 @@
 
 ## 📂 Featured Projects
 
-### 🧪 Delta Pharmacy App — Manual QA Project "https://github.com/Mustafa-Khalil0/Delta-Pharmacy-QA-Testing"
+### 🧪 Delta Pharmacy App — Manual QA Project 
+  "https://github.com/Mustafa-Khalil0/Delta-Pharmacy-QA-Testing"
 
 - Designed and executed test cases for functional, negative, boundary, and role-based scenarios.
 - Tested customer, pharmacist, and admin workflows across key application features.
