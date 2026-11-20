@@ -37,7 +37,6 @@
 
 **Testing focus:** Manual Testing, Functional Testing, Negative Testing, Boundary Value Analysis, Equivalence Partitioning, Regression Testing.
 
-> Add a link to the project repository or its test documentation here once you publish it.
 
 ### 🎓 AI-Based Assessment System for Hiring & Training — Graduation Project
 
