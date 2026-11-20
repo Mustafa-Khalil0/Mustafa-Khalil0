@@ -21,7 +21,7 @@
 
 **Testing:** Manual Testing, Functional Testing, Regression Testing, Agile/Scrum, Test Case Design, Defect Reporting
 
-**Automation (Learning):** Java, Selenium WebDriver, UI automation fundamentals
+**Automation:** Java, Selenium WebDriver, UI automation fundamentals, Playwright
 
 **Tools:** Postman, SQL, Git, Excel
 
@@ -75,6 +75,9 @@ Ain Shams University, Cairo, Egypt | 2021–2025
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
+  </a>
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
