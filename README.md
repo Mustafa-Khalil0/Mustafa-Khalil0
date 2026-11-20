@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mustafa Khalil</h1>
-<h3 align="center">Junior Software QA Engineer | Manual Testing | API Testing | Automation Testing (Learning)</h3>
+<h3 align="center">Junior Software QA Engineer | Manual Testing | API Testing | Automation Testing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-khalil-294582244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
@@ -14,7 +14,7 @@
 - 🧪 Interested in software quality, test design, defect reporting, and delivering reliable applications.
 - 📘 ISTQB Certified Tester Foundation Level (CTFL v4).
 - 🔍 Practicing Manual Testing, API Testing, and Database Testing.
-- 🤖 Currently learning UI Automation Testing using **Java and Selenium WebDriver**.
+- 🤖 Applied UI Automation Testing using **Java and Selenium WebDriver**.
 - 🤝 Interested in collaborating on software testing and quality assurance projects.
 
 ## 🧰 QA Skills
