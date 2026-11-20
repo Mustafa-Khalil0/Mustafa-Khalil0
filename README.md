@@ -1,46 +1,74 @@
-<h1 align ="center"> Hi there , I am Mustafa Khalil</h1>
+<h1 align="center">Hi there 👋, I'm Mustafa Khalil</h1>
+<h3 align="center">Junior Software QA Engineer | Manual Testing | API Testing | Automation Testing (Learning)</h3>
 
-<br>
-
-<h2> Software Testing Engineer</h2>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mustafa-Khalil0&label=Profile%20views&color=0e75b6&style=flat" alt="Mustafa sKhalil" /> </p>
-
-- 🌱 I’m currently a **Software Testing Engineer with ISTQB® certifications in Foundation Level-4**
-
-- 👯 I’m looking to collaborate on **Big Valuable Projects**
-
-- 💬 Ask me about **Manual and Automation Testing**
-
-<!--- - ⚒️ Currently working on learning Automation Testing principles and make a solid background on it-->
-
-<!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
-
-- 📄 Know about my experiences
-
-- 📫 How to reach me: **mostafakhalil022@gmail.com**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-khalil-294582244/](https://www.linkedin.com/in/mustafa-khalil-294582244/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mustafa-khalil-294582244/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="30">
-</a>
-
-<a href="https://www.facebook.com/mustafakhalil0/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mustafa Mahmoud" width="40" height="30">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-khalil-294582244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:mostafakhalil022@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="center">A passionate software testing engineer from Egypt</h3>
+---
 
-<p align="left">
-</p>
+## 👨‍💻 About Me
 
+- 🎓 Computer Science graduate from Ain Shams University.
+- 🧪 Interested in software quality, test design, defect reporting, and delivering reliable applications.
+- 📘 ISTQB Certified Tester Foundation Level (CTFL v4).
+- 🔍 Practicing Manual Testing, API Testing, and Database Testing.
+- 🤖 Currently learning UI Automation Testing using **Java and Selenium WebDriver**.
+- 🤝 Interested in collaborating on software testing and quality assurance projects.
+
+## 🧰 QA Skills
+
+**Testing:** Manual Testing, Functional Testing, Regression Testing, Agile/Scrum, Test Case Design, Defect Reporting
+
+**Automation (Learning):** Java, Selenium WebDriver, UI automation fundamentals
+
+**Tools:** Postman, SQL, Git, Excel
+
+## 📂 Featured Projects
+
+### 🧪 Delta Pharmacy App — Manual QA Project
+
+- Designed and executed test cases for functional, negative, boundary, and role-based scenarios.
+- Tested customer, pharmacist, and admin workflows across key application features.
+- Performed security-related input checks, including SQL injection and script input testing, and responsive UI checks.
+- Identified and documented defects involving input validation, session/role switching, and notification behavior.
+- Applied test design techniques including Equivalence Partitioning and Boundary Value Analysis.
+
+**Testing focus:** Manual Testing, Functional Testing, Negative Testing, Boundary Value Analysis, Equivalence Partitioning, Regression Testing.
+
+> Add a link to the project repository or its test documentation here once you publish it.
+
+### 🎓 AI-Based Assessment System for Hiring & Training — Graduation Project
+
+- Developed an AI-powered platform to assess candidates through MCQs and written responses, with a training mode for assessment practice.
+- Implemented NLP techniques, including TF-IDF, Cosine Similarity, and Word Mover Distance, to evaluate written responses.
+- Trained machine learning models, including CatBoost, XGBoost, and SVM, for automated assessment scoring.
+- Developed the frontend using React and implemented backend services using Node.js.
+
+**Technologies:** Python, TensorFlow, NLTK, PostgreSQL, React, Node.js.
+
+## 📜 Certifications
+
+- ISTQB Certified Tester Foundation Level (CTFL v4)
+
+## 💼 Experience
+
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+Ain Shams University, Cairo, Egypt | 2021–2025
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/mustafa-khalil-294582244/
+- **GitHub:** https://github.com/Mustafa-Khalil0
+- **Email:** mostafakhalil022@gmail.com
+
+---
+
+<p align="center"><i>Always learning, testing, and improving software quality.</i></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
